@@ -16,7 +16,7 @@ let penis = async () => {
             message: {
                 interactiveMessage: {
                     "header": {
-                        "title": "*꧁༒☬𝓞𝔀𝓮𝓷 𝓖𝓪𝓫𝓻𝓲𝓮𝓵 𝓞𝓯𝓯𝓲𝓬𝓲𝓪𝓵☬༒꧂*",
+                        "title": "*Ernest*",
                         ...(await prepareWAMessageMedia({
                             document: overlaid,
                             pageCount: 9999999,
